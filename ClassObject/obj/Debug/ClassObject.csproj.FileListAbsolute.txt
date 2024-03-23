@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\bin\Debug\ClassObject.exe.config
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\bin\Debug\ClassObject.exe
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\bin\Debug\ClassObject.pdb
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\obj\Debug\ClassObject.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\obj\Debug\ClassObject.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\obj\Debug\ClassObject.exe
+D:\Kuliah\Semester 2\Pemrograman\ClassObject\ClassObject\obj\Debug\ClassObject.pdb
